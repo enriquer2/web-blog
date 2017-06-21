@@ -1,0 +1,9 @@
+cache/
+config/deploy/*
+config/local_env.*
+db/*.sqlite3
+log/*
+private/*
+shared/*
+tmp/*
+tmp/**/*
